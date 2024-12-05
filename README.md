@@ -78,6 +78,8 @@ Testing the webserver.
 
 # OUTPUT:
 ![Screenshot 2024-12-02 170752](https://github.com/user-attachments/assets/91ca0125-e431-48a3-9d49-9d5a979728fd)
+![Screenshot 2024-12-05 135254](https://github.com/user-attachments/assets/2b6d26cf-2456-47b7-8b96-1e3143f3dfe3)
+
 
 
 # RESULT:
